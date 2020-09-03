@@ -5,7 +5,8 @@
 
 Este repo centraliza links para outros repositórios, de minha autoria, relacionados à **``scripts batch``**.
 
-#
+---
+
 ## **[Password Protect Folder](https://github.com/bryan-lima/password-protect-folder)**
 
 [![Github Release](https://img.shields.io/github/release/bryan-lima/password-protect-folder/all.svg?style=for-the-badge)](https://github.com/bryan-lima/password-protect-folder/releases) [![Github Tag](https://img.shields.io/github/v/tag/bryan-lima/password-protect-folder?style=for-the-badge)](https://github.com/bryan-lima/password-protect-folder/tags) [![License](https://img.shields.io/github/license/bryan-lima/password-protect-folder.svg?style=for-the-badge)](https://github.com/bryan-lima/password-protect-folder/blob/master/LICENSE)
@@ -15,3 +16,17 @@ Este repo centraliza links para outros repositórios, de minha autoria, relacion
 :link: **Veja + em: [@bryan-lima/password-protect-folder](https://github.com/bryan-lima/password-protect-folder)**
 
 ![](https://github.com/bryan-lima/password-protect-folder/blob/master/.github/img/protect-folder-v1.0.0.gif)
+
+---
+
+## **[Mask Text Input](https://github.com/bryan-lima/mask-text-input)**
+
+![GitHub repo size](https://img.shields.io/github/repo-size/bryan-lima/mask-text-input?style=for-the-badge)
+
+:radio_button: _**Descrição:** Saiba como **mascarar** entradas de texto no prompt de comando do Windows, ideal para senhas ou textos sensíveis à exibição em tela._
+
+:link: **Veja + em: [@bryan-lima/mask-text-input](https://github.com/bryan-lima/mask-text-input)**
+
+![](https://github.com/bryan-lima/mask-text-input/blob/master/.github/img/comando-EditV64-cmd.PNG)
+
+---
